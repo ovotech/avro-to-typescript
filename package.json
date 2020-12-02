@@ -45,7 +45,7 @@
     "@types/fs-extra": "^5.0.3",
     "@types/node": "^9.6.21",
     "@types/schema-registry": "^1.17.0",
-    "command-line-args": "^5.0.2",
+    "command-line-args": "^5.1.1",
     "command-line-usage": "^5.0.5",
     "fs-extra": "^5.0.0",
     "schema-registry": "^1.17.0",
